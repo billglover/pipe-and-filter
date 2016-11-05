@@ -22,3 +22,8 @@ The program uses Go routines and channels to implement a basic Pipe and Filter p
 cd ./pipe-and-filter
 go build
 ./pipe-and-filter
+```
+
+## Credit
+
+Source: [Go Concurrent Programming](http://www.pluralsight.com/courses/go-concurrent-programming)
